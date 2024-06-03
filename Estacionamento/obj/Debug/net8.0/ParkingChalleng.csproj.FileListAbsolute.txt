@@ -1,0 +1,15 @@
+C:\Users\Kelvin\Desktop\C# Estudos\Dio - Bootcamp DotNet\Estacionamento\bin\Debug\net8.0\ParkingChalleng.exe
+C:\Users\Kelvin\Desktop\C# Estudos\Dio - Bootcamp DotNet\Estacionamento\bin\Debug\net8.0\ParkingChalleng.deps.json
+C:\Users\Kelvin\Desktop\C# Estudos\Dio - Bootcamp DotNet\Estacionamento\bin\Debug\net8.0\ParkingChalleng.runtimeconfig.json
+C:\Users\Kelvin\Desktop\C# Estudos\Dio - Bootcamp DotNet\Estacionamento\bin\Debug\net8.0\ParkingChalleng.dll
+C:\Users\Kelvin\Desktop\C# Estudos\Dio - Bootcamp DotNet\Estacionamento\bin\Debug\net8.0\ParkingChalleng.pdb
+C:\Users\Kelvin\Desktop\C# Estudos\Dio - Bootcamp DotNet\Estacionamento\obj\Debug\net8.0\ParkingChalleng.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kelvin\Desktop\C# Estudos\Dio - Bootcamp DotNet\Estacionamento\obj\Debug\net8.0\ParkingChalleng.AssemblyInfoInputs.cache
+C:\Users\Kelvin\Desktop\C# Estudos\Dio - Bootcamp DotNet\Estacionamento\obj\Debug\net8.0\ParkingChalleng.AssemblyInfo.cs
+C:\Users\Kelvin\Desktop\C# Estudos\Dio - Bootcamp DotNet\Estacionamento\obj\Debug\net8.0\ParkingChalleng.csproj.CoreCompileInputs.cache
+C:\Users\Kelvin\Desktop\C# Estudos\Dio - Bootcamp DotNet\Estacionamento\obj\Debug\net8.0\ParkingChalleng.sourcelink.json
+C:\Users\Kelvin\Desktop\C# Estudos\Dio - Bootcamp DotNet\Estacionamento\obj\Debug\net8.0\ParkingChalleng.dll
+C:\Users\Kelvin\Desktop\C# Estudos\Dio - Bootcamp DotNet\Estacionamento\obj\Debug\net8.0\refint\ParkingChalleng.dll
+C:\Users\Kelvin\Desktop\C# Estudos\Dio - Bootcamp DotNet\Estacionamento\obj\Debug\net8.0\ParkingChalleng.pdb
+C:\Users\Kelvin\Desktop\C# Estudos\Dio - Bootcamp DotNet\Estacionamento\obj\Debug\net8.0\ParkingChalleng.genruntimeconfig.cache
+C:\Users\Kelvin\Desktop\C# Estudos\Dio - Bootcamp DotNet\Estacionamento\obj\Debug\net8.0\ref\ParkingChalleng.dll

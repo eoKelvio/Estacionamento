@@ -1,2 +1,5 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using ParkingChalleng.models;
+
+Parking parking = new Parking();
+
+parking.Menu();
